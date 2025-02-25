@@ -17,7 +17,7 @@ const Title = styled.h2`
     }
 `;
 
-const Subtitle = styled.h3`
+const Subtitle = styled.p`
   font-size: 1.2rem;
   margin-top: 4rem;
 
